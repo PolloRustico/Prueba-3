@@ -1,0 +1,17 @@
+
+
+
+
+
+@font-face {
+    font-family: 'Recursive';
+    src: url('/assets/webfonts/Recursive.ttf') format('truetype'); /* Reemplaza '/fonts/Recursive.ttf' con la ruta de tu archivo TTF */
+}
+
+body {
+    font-family: 'Recursive' !important;
+}
+
+.icono-rojo {
+    color: indianred;
+}
